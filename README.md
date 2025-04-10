@@ -15,7 +15,7 @@ perception field of the rest visual tokens, we decompose the visual tokens in th
 which will benefit the fine-grained understanding tasks.
 
 
-Note: Our repository support multiple baselines for visual token reduction:
+**Note**: Our repository support multiple baselines for visual token reduction:
 | Name           | Type                     | Paper                                                                                                                       | Venue            |
 |----------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------|
 | Token-mixer    | Mixing tokens            | [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601)                                           | NeurlPS 2021        |

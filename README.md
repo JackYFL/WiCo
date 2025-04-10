@@ -80,7 +80,7 @@ You can refer to [``scripts/v1_5/pretrain.sh``](LLaVA/scripts/v1_5/wico/pretrain
 ## Evaluation
 Before evaluation, all the datasets should be prepared according to the [Evaluation](LLaVA/docs/Evaluation.md) document.
 
-We also provide bash script for convenience. To train WiCo, just execute:
+We also provide bash script for convenience. To evaluate WiCo, just execute:
 ```Shell
 cd LLaVA
 . scripts/v1_5/wico/eval.sh
